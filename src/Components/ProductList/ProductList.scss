@@ -4,6 +4,9 @@
   grid-template-rows: auto;
   grid-gap: 1rem;
 }
+.product__item {
+  background-color: #cdcdcd;
+}
 
 @media only screen and (min-width: 600px) {
   /* For tablets: */
